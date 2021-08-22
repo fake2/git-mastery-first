@@ -1,3 +1,3 @@
 # git-mastery-first
 
-yo
+foo
